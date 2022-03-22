@@ -1,10 +1,7 @@
 ---
 layout: post
 title: Current Service Providers
-subtitle: A list of the services we carry on the multiplex
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+subtitle: A list of the services we carry on the multiplex]
 comments: false
 ---
 
