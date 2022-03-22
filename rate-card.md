@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Rate Card
-subtitle: "Our charges for carriage on the Cambridge Small Scale Multiplex"
+subtitle: "Our charges for carriage on the Multiplex"
 share-title: "Cambridge SSDAB | Rate Card"
 share-description: "Cambridge Small Scale DAB carriage Rate Card"
 ---
