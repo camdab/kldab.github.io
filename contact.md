@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact Us
-subtitle: We'd like to hear from you
+subtitle: We'd love to hear from you
 ---
 
 We are Cambridge Digital Radio.
