@@ -1,14 +1,12 @@
 ---
 layout: page
 title: Rate Card
-subtitle: "Our Rate Card for carriage on the Cambridge Small Scale Multiplex"
+subtitle: "Our charges for carriage on the Cambridge Small Scale Multiplex"
 share-title: "Cambridge SSDAB | Rate Card"
 share-description: "Cambridge Small Scale DAB carriage Rate Card"
 ---
 
-The current charges for carriage (per annum) on the Cambridge Small Scale Multiplex
-
-| Standard Rate Card | BIT RATE | Capacity Units | Cost (per year) | NOTES |
+| BIT RATE | Capacity Units | Cost (per year) | NOTES |
 | 24 k/bit per sec | 18 | £1,350 | DAB+ only (mono) |
 | 32 k/bit per sec | 24 | £1,800 | DAB+ only (mono) |
 | 40 k/bit per sec | 30 | £2,250 | DAB+ only |
