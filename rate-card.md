@@ -26,12 +26,11 @@ The above figures are the standard rate charged by Cambridge Digital Radio Limit
 For example, these are the charges that would typically apply to services broadcast by established commercial broadcasters such as those holding
 national commercial licences (analogue or digital) and / or local commercial licences (analogue or digital).
 
-The rates above are for the transmission of “broadcast ready” programme streams with the broadcaster providing encoding / text / pictures in a form
-which can be fed into the multiplexer without further alteration.  CDR Limited can provide these and other services and support at additional cost.
+The rates above are for the transmission of “broadcast ready” programme streams with the broadcaster providing encoding / text / pictures in a form which can be fed into the multiplexer without further alteration.  Cambridge Digital Radio Limited can provide these and other services and support at additional cost.
 
 Discount Factors:
 Cambridge Digital Radio Limited may, solely at its own discretion and in light of its operational own circumstances, choose to offer individual discounts
 on the above figures for one or more of the following reasons:
 
 - Broadcaster holds an analogue Community Radio Licence
-- Broadcaster holds a digital (C-DSPS) Community Radio Licence
+- Broadcaster holds a digital (C-DSP) Community Radio Licence
