@@ -33,5 +33,5 @@ Discount Factors:
 Cambridge Digital Radio Limited may, solely at its own discretion and in light of its operational own circumstances, choose to offer individual discounts
 on the above figures for one or more of the following reasons:
 
-    • Broadcaster holds an analogue Community Radio Licence
-    • Broadcaster holds a digital (C-DSPS) Community Radio Licence
+- Broadcaster holds an analogue Community Radio Licence
+- Broadcaster holds a digital (C-DSPS) Community Radio Licence
