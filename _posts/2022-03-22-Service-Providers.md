@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Current Service Providers
-subtitle: A list of the services we carry on the multiplex]
+subtitle: A list of the services we carry on the multiplex
 comments: false
 ---
 
