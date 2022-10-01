@@ -20,13 +20,13 @@ share-description: "King's Lynn Small Scale DAB carriage Rate Card"
 | 192 k/bit per sec | 140 | £10,500 |DAB (stereo) |
 
 This rate card is currently based on a charge of £75.00 (ex. VAT) per capacity unit per year.
-Figures above exclude VAT, are correct as at October 2021 and are subject to future revision.
+Figures above exclude VAT, are correct as at October 2022 and are subject to future revision.
 
 The above figures are the standard rate charged by North Norfolk Digital Limited for carriage on the King's Lynn DAB multiplex.
 For example, these are the charges that would typically apply to services broadcast by established commercial broadcasters such as those holding
 national commercial licences (analogue or digital) and / or local commercial licences (analogue or digital).
 
-The rates above are for the transmission of “broadcast ready” programme streams with the broadcaster providing encoding / text / pictures in a form which can be fed into the multiplexer without further alteration.  North Norhfolk Digital Limited can provide these and other services and support at additional cost.
+The rates above are for the transmission of “broadcast ready” programme streams with the broadcaster providing encoding / text / pictures in a form which can be fed into the multiplexer without further alteration.  North Norfolk Digital Limited can provide these and other services and support at additional cost.
 
 Discount Factors:
 North Norfolk Digital Limited may, solely at its own discretion and in light of its operational own circumstances, choose to offer individual discounts
