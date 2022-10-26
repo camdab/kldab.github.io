@@ -7,4 +7,9 @@ share-description: "King's Lynn Small Scale DAB plans to carry these service pro
 ---
 | Service Provider |
 | :------ |
-| TBD |
+| Cambridge 105 Radio |
+| Caroline Flashback |
+| Greatest Hits Radio |
+| KL1 Radio |
+| Radio Caroline |
+| Radio West Norfolk |
