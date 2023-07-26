@@ -21,7 +21,7 @@ share-description: "King's Lynn Small Scale DAB carriage Rate Card"
 
 The above rates are quoted inclusive of a 50% discount applicable to organisations with a annual turnover of less than £1 million.
 
-This rate card is currently based on a charge of £75.00 (ex. VAT) per capacity unit per year (for organisations with an annual turnover of less than £1 million) and £150.00 (ex.VAT) for organisations exceeding a turnover of £1 million per annum.
+This rate card is currently based on a charge of £75.00 (ex. VAT) per capacity unit per year (for organisations with an annual turnover of less than £1 million) and £150.00 (ex. VAT) for organisations exceeding a turnover of £1 million per annum.
 
 Figures above exclude VAT (we are not currently VAT registered), are correct as at July 2023 and are subject to future revision.
 
