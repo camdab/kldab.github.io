@@ -19,7 +19,7 @@ share-description: "King's Lynn Small Scale DAB carriage Rate Card"
 | 160 k/bit per sec | 116 | £8,700 | DAB (stereo) |
 | 192 k/bit per sec | 140 | £10,500 |DAB (stereo) |
 
-The above rates are quoted inclusive of a 50% discount applicable to organisations with a annual turnover of less than £1 million.
+The above rates are quoted inclusive of a 50% discount applicable to organisations with an annual turnover of less than £1 million.
 
 This rate card is currently based on a charge of £75.00 (ex. VAT) per capacity unit per year (for organisations with an annual turnover of less than £1 million) and £150.00 (ex. VAT) for organisations exceeding a turnover of £1 million per annum.
 
