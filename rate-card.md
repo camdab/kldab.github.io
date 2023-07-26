@@ -23,7 +23,7 @@ The above rates are quoted inclusive of a 50% discount applicable to organisatio
 
 This rate card is currently based on a charge of £75.00 (ex. VAT) per capacity unit per year (for organisations with an annual turnover of less than £1 million) and £150.00 (ex.VAT) for organisations exceeding a turnover of £1 million per annum.
 
-Figures above exclude VAT (we are not currently VAT registred), are correct as at July 2023 and are subject to future revision.
+Figures above exclude VAT (we are not currently VAT registered), are correct as at July 2023 and are subject to future revision.
 
 The above figures are the standard rate charged by North Norfolk Digital Limited for carriage on the King's Lynn DAB multiplex.
 For example, these are the charges that would typically apply to services broadcast by established commercial broadcasters such as those holding
