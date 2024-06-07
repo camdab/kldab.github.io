@@ -8,7 +8,6 @@ share-description: "King's Lynn Small Scale DAB plans to carry these service pro
 | Service Provider |
 | :------ |
 | BBC Radio Norfolk |
-| BOSS Atlantis |
 | Cambridge 105 Radio |
 | Caroline Flashback |
 | Future Radio |
