@@ -12,11 +12,14 @@ share-description: "King's Lynn Small Scale DAB plans to carry these service pro
 | Caroline Flashback |
 | Future Radio |
 | Greatest Hits Radio |
+| Hits Radio Norfolk |
 | KL Country |
 | KL Xtra |
 | KL1 Radio |
 | LASER558 |
 | Radio Caroline |
+| Radio Maria |
 | Radio West Norfolk |
 | Radio Xtra |
 | Resonance Extra |
+| ZACK FM |
