@@ -8,7 +8,7 @@ share-description: "King's Lynn Small Scale DAB plans to carry these service pro
 | Service Provider |
 | :------ |
 | BBC Radio Norfolk |
-| Cambridge 105 Radio |
+| Cambridge Radio |
 | Caroline Flashback |
 | Future Radio |
 | Greatest Hits Radio |
@@ -22,4 +22,3 @@ share-description: "King's Lynn Small Scale DAB plans to carry these service pro
 | Radio West Norfolk |
 | Radio Xtra |
 | Resonance Extra |
-| ZACK FM |
